@@ -9,7 +9,7 @@ return {
   lazy = false,   
   opts = {
       window = {
-        position = "left", 
+        position = "float", 
           mapping_options = {
               noremap = true,
               nowait = true,
